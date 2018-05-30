@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scan_and_Assure</string>
+    <string name="footer_text">&#169; Copyright 2017 Maruti Suzuki India Limited</string>
+    <string name="nav_home_title">Home</string>
+    <string name="nav_contact_title">Contact</string>
+    <string name="nav_req_support_title">Request Support</string>
+    <string name="nav_info_title">Info</string>
+    <string name="nav_about_title">About</string>
+    <string name="nav_help_title">Help</string>
+    <string name="nav_disc_title">Disclaimer</string>
+    <string name="nav_account_title">Account</string>
+    <string name="nav_usr_profile_title">User Profile</string>
+    <string name="nav_usage_title">Usage</string>
+</resources>
